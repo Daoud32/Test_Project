@@ -1,2 +1,5 @@
+# Ignore python file
 *.py
+
+# ignore upload.txt file
 upload.txt
