@@ -1,5 +1,8 @@
 # Ignore python file
 *.py
 
+# Ignore Brute_force.txt
+Brute_force.txt
+
 # ignore upload.txt file
 upload.txt
